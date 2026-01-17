@@ -1,6 +1,6 @@
 # End to End Airbnb Price Prediction 
 
-**Author:** Hema_Kalyan  
+**Author:** Avi  
 **GitHub:** [chauhanavi21/Price_Pred_Airbnb](https://github.com/chauhanavi21/Price_Pred_Airbnb)
 
 ## Introduction
@@ -97,7 +97,7 @@ If you prefer to use Docker, you can install and run the project using a Docker 
 
 ## Troubleshooting
 
-- If you encounter any issues during the installation process, please create an issue on the [GitHub repository](https://github.com/chauhanavi21/Price_Pred_Airbnb) or contact at ```kalyanmurapaka274@gmail.com```
+- If you encounter any issues during the installation process, please create an issue on the [GitHub repository](https://github.com/chauhanavi21/Price_Pred_Airbnb) or contact at ```chauhanavi843@gmail.com```
 
 
 # Contributing
@@ -110,9 +110,9 @@ This project is open source and available for educational and research purposes.
 
 # Author
 
-**Hema_Kalyan**
+**Avi**
 - GitHub: [chauhanavi21](https://github.com/chauhanavi21)
-- Email: kalyanmurapaka274@gmail.com
+- Email: chauhanavi843@gmail.com
 
 # Acknowledgements
 
