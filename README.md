@@ -1,4 +1,7 @@
-# End to End Airbnb-Price-Prediction 
+# End to End Airbnb Price Prediction 
+
+**Author:** Hema_Kalyan  
+**GitHub:** [chauhanavi21/Price_Pred_Airbnb](https://github.com/chauhanavi21/Price_Pred_Airbnb)
 
 ## Introduction
 In today's fast-paced world, the way we travel and seek accommodations has undergone a remarkable transformation, thanks to platforms like Airbnb. This dynamic marketplace has empowered property owners and travellers, offering a diverse range of lodging options. However, one enduring challenge is setting the right price for a listing. Hosts aspire to optimize their earnings while ensuring competitive pricing, while guests seek value for their money. Balancing these interests can be intricate, and that's where the motivation for Airbnb price prediction comes in.
@@ -37,7 +40,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```
-     git clone https://github.com/KalyanMurapaka45/Airbnb-Price-Prediction.git
+     git clone https://github.com/chauhanavi21/Price_Pred_Airbnb.git
      ```
 
 2. **Create a Virtual Environment** (Optional but recommended)
@@ -80,13 +83,13 @@ If you prefer to use Docker, you can install and run the project using a Docker 
    - Open your terminal or command prompt.
    - Run the following command to pull the Docker image from DockerHub:
      ```
-     docker pull kalyan45/airbnb-app
+     docker pull chauhanavi21/airbnb-app
      ```
 
 2. **Run the Docker Container**
    - Start the Docker container by running the following command, mapping any necessary ports:
      ```
-     docker run -p 5000:5000 kalyan45/airbnb-app
+     docker run -p 5000:5000 chauhanavi21/airbnb-app
      ```
 
 3. **Access the Project**
@@ -94,13 +97,23 @@ If you prefer to use Docker, you can install and run the project using a Docker 
 
 ## Troubleshooting
 
-- If you encounter any issues during the installation process, Contact me at ```kalyanmurapaka274@gmail.com```
+- If you encounter any issues during the installation process, please create an issue on the [GitHub repository](https://github.com/chauhanavi21/Price_Pred_Airbnb) or contact at ```kalyanmurapaka274@gmail.com```
 
 
 # Contributing
 
 We welcome contributions from the community! If you have any ideas or suggestions for improving the project, please feel free to create an issue or submit a pull request.
 
+# License
+
+This project is open source and available for educational and research purposes.
+
+# Author
+
+**Hema_Kalyan**
+- GitHub: [chauhanavi21](https://github.com/chauhanavi21)
+- Email: kalyanmurapaka274@gmail.com
+
 # Acknowledgements
 
-This project was inspired by the Kaggle dataset on AirBNB Price Prediction and the corresponding competition. We also acknowledge the open-source Python libraries used in this project and their contributors.
+This project was inspired by the Kaggle dataset on Airbnb Price Prediction and the corresponding competition. We also acknowledge the open-source Python libraries used in this project and their contributors.
